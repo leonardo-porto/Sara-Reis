@@ -72,6 +72,29 @@ nav {
     
 }
 
+img:hover{
+
+    
+    cursor: pointer;
+
+}
+
+#instagram{
+
+    position: absolute;
+    top: 5px;
+    right: 100px;
+    width: 50px;
+}
+
+#facebook{
+
+    position: absolute;
+    top: 5px;
+    right: 170px;
+    width: 50px;
+}
+
 #menu ul li {
 
     display: inline;
@@ -85,7 +108,7 @@ nav {
     text-decoration: none;
     transition: all 1s;
     padding-top: 10px;
-    font-size: 20px;    
+    font-size: 18px;    
     font-family: 'Arcane Regular';
     background-color: rgb(240, 240, 240);
     font-weight: 300;
